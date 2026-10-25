@@ -1,0 +1,13 @@
+# Výstupy kontroly Androidu - osobní data z telefonu
+kontrola-*/
+*.apk
+bugreport*.zip
+androidqf
+androidqf_*/
+
+# Editory a systém
+*~
+*.swp
+.DS_Store
+.vscode/
+.idea/
