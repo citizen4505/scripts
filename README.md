@@ -47,8 +47,7 @@ Co kontroluje:
 
 Výsledky se ukládají do složky `kontrola-DATUM-CAS/` v aktuálním adresáři, souhrn je v `SOUHRN.txt`.
 
-> ⚠️ Výstupní složka obsahuje osobní data z telefonu. Nikam ji nenahrávej
-> (v `.gitignore` je vyloučená).
+> ⚠️ Výstupní složka obsahuje osobní data z telefonu.
 
 ---
 
